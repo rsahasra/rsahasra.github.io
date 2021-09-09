@@ -1,6 +1,5 @@
-# Portfolio: Rachna Sahasrabudhe
 ## Introduction
-Hi! My name is Rachna and I'm a 3rd year Computer Science major at Georgia Tech, with concentrations in Intelligence and Information Internetworks. I'm passionate about problem solving, sustainability, and learning new skills. I was a STEP Intern at Google on the Growth Payments Platform team, and I'm a Teaching Assistant for Intro to Object Oriented Programming. As a teaching assistant, I've also been a Materials Lead and Programming Exercise Lead. \
+Hi! My name is Rachna and I'm a 3rd year Computer Science major at Georgia Tech, with concentrations in Intelligence and Information Internetworks. I'm passionate about problem solving, sustainability, and learning new skills. I was a STEP Intern at Google on the Growth Payments Platform team, and I'm a Teaching Assistant for Intro to Object Oriented Programming. As a teaching assistant, I've also been a Materials Lead and Programming Exercise Lead. 
 ## Projects
 
 ### Machine Learning Landscape Scene Recognition Project

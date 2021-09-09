@@ -14,5 +14,4 @@ In this Vertically Integrated Project, I am working in a team to create a crop p
 ### Decision Tree Covid-19 & BCG Vaccine Correlation Analysis
 In this project I worked with a couple datasets presented in the Kaggle Data Analysis Challenge linked below. It involved conducting research on bacillus Calmette-Guérin, a vaccine given to children to prevent tuberculosis, and it's potentially negative correlation with Covid-19 cases. The hackathon was started in response to a paper from researchers at the University of Michigan, Ann Arbor. My research question was to determine to what extent there was a correlation between countries that had BCG vaccination policies, and the rates of Covid-19 cases in those countries. The presentation I've linked below includes a general exploration of the data, as well as my Random Forest and Decision Tree Classifier results. This project was my first time using R, and I really enjoyed the process.\
 [Kaggle Link](https://www.kaggle.com/bcgvaccine/hackathon) \
-[Kaggle Link] (https://www.kaggle.com/bcgvaccine/hackathon) \
-[Code and Presentation] (https://docs.google.com/presentation/d/1dLqvw-uQE0o_IT3WRsyZHvWBcNB8TyW8XHsgySRG2SI/edit?usp=sharing)
+[Code and Presentation](https://docs.google.com/presentation/d/1dLqvw-uQE0o_IT3WRsyZHvWBcNB8TyW8XHsgySRG2SI/edit?usp=sharing) \
